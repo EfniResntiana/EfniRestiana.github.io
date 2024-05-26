@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #FFF2D7;
+}
+
+#Foto-profile {
+    width: 150px;
+    height: 187,5px;
+    border-radius: 50%;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section {
+    padding: 20px;
+    margin: 10px 0;
+}
+
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section ul li {
+    padding: 5px 0;
+}
+
+section#about_me {
+    background-color: #fce9c3;
+}
+
+section#education {
+    background-color: #fcd59fee;
+}
+
+section#social-media {
+    background-color: #fccd9c;
+}
+
+section#organisasi {
+    background-color: #F8C794;
+}
+
+section#skills {
+    background-color: #D8AE7E;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
